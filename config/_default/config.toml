@@ -1,7 +1,7 @@
-baseURL: "https://Elma727.github.io/hugo-theme-stack-starter/"
-locale: "en-us"
-title: "Sorifa Alam | Personal Website"
-theme: "hugo-theme-stack"
+baseURL= "https://Elma727.github.io/hugo-theme-stack-starter/"
+locale= "en-us"
+title= "Sorifa Alam | Personal Website"
+theme= "hugo-theme-stack"
 
 # Theme i18n support
 # See all available values at https://github.com/CaiJimmy/hugo-theme-stack/tree/master/i18n
